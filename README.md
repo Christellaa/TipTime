@@ -1,4 +1,4 @@
-# ArtSpace
+# Tip Time
 
 ## About The Project
 
